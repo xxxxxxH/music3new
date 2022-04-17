@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">SeaShell Music Player</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <string name="base_url">https://ruanxw.xyz/config</string>
+
+    <!-- test -->
+    <string name="lovin_app_key">XPxZx2V96_iG7pvM4Tnv9Ci2gnTcttWt7PvgH4gkf-2zoyye4GosxpTV1dPNCvzgQPmf6oQpX9k-pQriMIx7HR</string>
+    <string name="lovin_insert_ad_id">069977ccb92b2669</string>
+    <string name="lovin_native_ad_id">69065a61d0b36520</string>
+    <string name="lovin_banner_ad_id">10424d6678069178</string>
+
+    <string name="top_on_app_id">a5aa1f9deda26d</string>
+    <string name="top_on_app_key">4f7b9ac17decb9babec83aac078742c7</string>
+    <string name="top_on_open_ad_id">b5ee8ae8611366</string>
+
+    <string name="admob_id">ca-app-pub-3940256099942544~3347511713</string>
+
+    <!-- prd -->
+    <!--    <string name="lovin_app_key">XPxZx2V96_iG7pvM4Tnv9Ci2gnTcttWt7PvgH4gkf-2zoyye4GosxpTV1dPNCvzgQPmf6oQpX9k-pQriMIx7HR</string>-->
+    <!--    <string name="lovin_insert_ad_id">520479b76fe4a818</string>-->
+    <!--    <string name="lovin_native_ad_id">32307fb9a52c04ce</string>-->
+    <!--    <string name="lovin_banner_ad_id">05f75ed444c9e8ec</string>-->
+
+    <!--    <string name="top_on_app_id">a624d50c029c26</string>-->
+    <!--    <string name="top_on_app_key">5ce813fb93a147bb3e537c1239e4a932</string>-->
+    <!--    <string name="top_on_open_ad_id">b624d50ccd6abd</string>-->
+
+    <!--    <string name="admob_id">ca-app-pub-8151809644786002~8976762733</string>-->
+</resources>
