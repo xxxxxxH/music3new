@@ -49,10 +49,10 @@ dependencies {
     implementation 'androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0'
     implementation 'com.blankj:utilcodex:1.31.0'
     implementation 'org.greenrobot:eventbus:3.2.0'
-    implementation 'com.guolindev.permissionx:permissionx:1.6.1'
-    implementation 'com.github.li-xiaojun:EasyAdapter:1.2.7'
-    implementation 'com.afollestad.material-dialogs:core:3.2.1'
-    implementation 'com.yanzhenjie:kalle:0.1.7'
+//    implementation 'com.guolindev.permissionx:permissionx:1.6.1'
+//    implementation 'com.github.li-xiaojun:EasyAdapter:1.2.7'
+//    implementation 'com.afollestad.material-dialogs:core:3.2.1'
+//    implementation 'com.yanzhenjie:kalle:0.1.7'
     implementation 'com.google.code.gson:gson:2.8.8'
     implementation 'com.facebook.android:facebook-android-sdk:12.3.0'
     implementation 'io.github.youth5201314:banner:2.2.2'
@@ -77,5 +77,10 @@ dependencies {
     implementation 'com.flyco.dialog:FlycoDialog_Lib:1.2.2@aar'
     implementation 'com.flyco.animation:FlycoAnimation_Lib:1.0.0@aar'
     implementation 'com.nineoldandroids:library:2.4.0'
+    implementation 'com.tencent:mmkv-static:1.2.10'
+    implementation 'com.github.CymChad:BaseRecyclerViewAdapterHelper:3.0.4'
+    implementation "com.github.bumptech.glide:glide:4.13.0"
+    implementation 'com.lzy.net:okgo:3.0.4'
+    implementation 'com.squareup.okhttp3:logging-interceptor:4.9.2'
 
 }
